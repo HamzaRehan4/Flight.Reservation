@@ -1,0 +1,8 @@
+Name: hamza
+Gender: male
+Ticket No: PK765
+Flight Type: Business Class
+Source: islamabad
+Address: house
+Destination: germany
+Seat No: 2
